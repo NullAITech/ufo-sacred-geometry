@@ -1,6 +1,6 @@
 # UFO Sacred Geometry Studio & Agroglyph Architecture 🛸📐
 
-[![CI Multi-OS Test Matrix](https://github.com/1nc0gn30/ufo-sacred-geometry/actions/workflows/ci.yml/badge.svg)](https://github.com/1nc0gn30/ufo-sacred-geometry/actions)
+[![CI Multi-OS Test Matrix](https://github.com/NullAITech/ufo-sacred-geometry/actions/workflows/ci.yml/badge.svg)](https://github.com/NullAITech/ufo-sacred-geometry/actions)
 [![Python 3.9 - 3.13](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20runtime%20(stdlib%20only)-brightgreen.svg)](https://docs.python.org/3/library/)
 [![MCP 2024-11-05 Compliant](https://img.shields.io/badge/MCP-JSON--RPC%202.0%20Stdio-purple.svg)](https://modelcontextprotocol.io/)
@@ -80,7 +80,7 @@ A pure Python 3 standard library engine and Web CAD Studio (design influenced by
 
 ```bash
 # Clone the repository
-git clone https://github.com/1nc0gn30/ufo-sacred-geometry.git
+git clone https://github.com/NullAITech/ufo-sacred-geometry.git
 cd ufo-sacred-geometry
 
 # Install in editable mode
